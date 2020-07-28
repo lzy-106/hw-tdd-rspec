@@ -4,6 +4,7 @@ In this assignment you will use a combination of Acceptance and
 Unit/Functional 
 tests with the Cucumber and RSpec tools to add a "find movies with same
 director" feature to RottenPotatoes.
+[![Build Status](https://travis-ci.com/lzy-106/hw-tdd-rspec.svg?branch=master)](https://travis-ci.com/lzy-106/hw-tdd-rspec)
 
 **NOTE: Do not clone this repo to your workspace. Fork it first, then
 **clone your fork.**
